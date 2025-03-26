@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ourfunc.dir/src/ourfunc.cpp.o -o ourfunc 

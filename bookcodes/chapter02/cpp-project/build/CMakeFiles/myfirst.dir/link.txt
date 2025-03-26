@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/myfirst.dir/src/myfirst.cpp.o -o myfirst 

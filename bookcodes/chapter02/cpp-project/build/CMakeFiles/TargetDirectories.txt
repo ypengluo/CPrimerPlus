@@ -1,0 +1,8 @@
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/main.dir
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/using.dir
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/carrots.dir
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/myfirst.dir
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/sqrt.dir
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/ourfunc.dir
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/edit_cache.dir
+/home/lyp/Downloads/Cpp-Primer-Plus-6th/bookcodes/chapter02/cpp-project/build/CMakeFiles/rebuild_cache.dir
